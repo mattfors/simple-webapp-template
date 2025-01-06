@@ -14,5 +14,7 @@
         "esbenp.prettier-vscode"
       ]
     }
-  }
+  },
+  "forwardPorts": [8080],
+  "postStartCommand": "npm start"
 }
